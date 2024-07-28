@@ -1,0 +1,30 @@
+.swiper-cursor:hover {
+    cursor: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAZlBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+Vn2moAAAAInRSTlMAmXaIPiMyCDUdElI4jJCJbUhDBJR+YVxNGnIOg2ZWLRcoBr06qQAAAUlJREFUSMflztmSgjAQheFzACXEIMq+uL7/Sw5RKIhCMX05Nd9NKqn+q4OXkjU27fNCY3Qi+cRcGFRlFWTO05FM9KzgDjOdT+sSYpLF7JtupUDLt5Oz5kIy1mPhPYO0dz436D04sgPR7Xaw1GvS71DScbRDO44iIIzp8FDQtftMNF0+9u/zkh97OUt8JkiPid9LvIKWAhR7BRBaGb6SiTcUQ3PFZCW5DoVl2Gu2koY9g4EiveUtjfsvNd0iEy4nt256DU0Eh5tMirrBJps44qsKhYl1CrQwsapMnDDW4oStPGEER5ZtJwpzKfNyt5UEmFG04oP+fXLgwEtDYWLVgSSZbCd7eYJanuAuT/DwhYnVyhPU8gRGnuARixNkrTCxKnkCI08QxeIE2qj9N2U0/h6TeEv8O1aduSz4H4lZSe5YV+WJ/ynJD7B+AB2wESSel3HpAAAAAElFTkSuQmCC') 25 25, auto; /* Center the 50px by 50px cursor */
+    /* Customize the cursor by changing the data URI */
+  }
+  
+  /* Demo styling not needed for cursor */
+  
+  body {
+    color: white;
+    background: #111;
+    font-family: "Montserrat", serif;
+    height: 100vh;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    overflow: hidden;
+  }
+  
+  
+  
+  div {width:50vw;height:300px;background:darkblue;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size:2vw;
+    text-transform:uppercase;
+  }
+  
